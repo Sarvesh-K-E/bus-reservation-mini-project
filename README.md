@@ -6,6 +6,17 @@ A modern, high-performance web-based Bus Reservation System built to showcase th
 
 The Bus Reservation System is designed to provide a comprehensive booking experience. It combines a sleek, responsive UI with a powerful backend engine written in C++ and compiled to WebAssembly (WASM). It supports real-time seat synchronization using Firebase, interactive 3D visualizations, and an embedded terminal for power users.
 
+## Screenshots
+
+### Authentication
+![Authentication](screenshots/image1.png)
+
+### Booking Interface
+![Booking Interface](screenshots/image2.png)
+
+### Tickets
+![Tickets](screenshots/image3.png)
+
 ## Features
 
 - **Blazing Fast Engine**: Core business logic is written in C++ and compiled to WebAssembly for zero-latency execution in the browser.
